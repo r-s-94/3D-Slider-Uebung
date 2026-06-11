@@ -93,7 +93,7 @@ function App() {
       <div className="main-div2">
         <div
           style={{
-            transform: `rotateX(${-45}deg) rotateY(${sliderRotate}deg)`,
+            transform: `rotateY(${sliderRotate}deg)`,
           }}
           className="slider2"
         >
