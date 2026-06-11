@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "3D-Slider-Uebung",
+  base: "/3D-Slider-Uebung/",
   plugins: [react()],
 });
